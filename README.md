@@ -26,7 +26,7 @@ Experienced IT professional with a strong background in management information s
 [![My Skills](https://skillicons.dev/icons?i=python,aws&theme=light)](https://skillicons.dev) <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 
 ##### Connect With Me
-![https://www.linkedin.com/in/ilfijandrisno/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  ![https://instagram.com/ilfijandrisno](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilfijandrisno/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilfijandrisno)
 
 ##### Stats
 ![Ilfi Jandrisno GitHub stats](https://github-readme-stats.vercel.app/api?username=ilfijandrisno&show_icons=true&theme=radical)
