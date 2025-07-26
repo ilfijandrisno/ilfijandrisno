@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Experienced IT professional with a strong background in management information systems (MIS), data engineering, and business intelligence. Proven expertise in ETL processes, data warehousing, analytics, budgeting, and activity-based costing. Skilled in designing interactive dashboards that enhance decision-making and reduce analysis time.
 
 - 🔭 Currently working as Data Engineer
-- 📄 My CV: [View CV](https://github.com/ilfijandrisno/ilfijandrisno/raw/main/files/CV_Ilfi_Jandrisno.pdf)
+- 📄 My CV: [View CV](https://github.com/ilfijandrisno/ilfijandrisno/blob/main/files/CV_Ilfi_Jandrisno.pdf)
 - 🌐 LinkedIn: [linkedin.com/in/ilfijandrisno](https://linkedin.com/in/ilfijandrisno)
 - 🧰 Tech: Python | SQL Server | SSIS | Tableau | AWS
 
