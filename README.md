@@ -22,7 +22,7 @@ Experienced IT professional with a strong background in management information s
 - 🌐 LinkedIn: [linkedin.com/in/ilfijandrisno](https://linkedin.com/in/ilfijandrisno)
 - 🧰 Tech: Python | SQL Server | SSIS | Tableau | AWS
 
-[![Skills](https://skills.syvixor.com/api/icons?i=python,sqlserver,amazonwebservices,tableau,postgresql,json)](https://github.com/syvixor/skills-icons)
+<!-- [![Skills](https://skills.syvixor.com/api/icons?i=python,sqlserver,amazonwebservices,tableau,postgresql,json)](https://github.com/syvixor/skills-icons) -->
 
 ##### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,aws,vscode&theme=light)](https://skillicons.dev) <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
